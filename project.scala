@@ -11,7 +11,7 @@
 //> using test.dep "io.monix::minitest:2.9.6"
 //> using test.dep "com.lihaoyi::pprint:0.6.6"
 
-//> using publish.organization "me.vican.jorge"
+//> using publish.organization "io.github.alexarchambault.bleep"
 //> using publish.name "jsonrpc4s"
 //> using publish.ci.computeVersion "git:tag"
 //> using publish.ci.repository "central-s01"
