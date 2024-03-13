@@ -1,4 +1,4 @@
-//> using scala "2.12.14", "2.13.6"
+//> using scala "2.12.19", "2.13.13"
 //> using jvm "8"
 //> using options "-Yrangepos" "-deprecation" "-Xlint"
 //> using dep "io.monix::monix:3.2.0"
